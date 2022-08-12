@@ -1,4 +1,4 @@
-admin = 'Abolanos3'
-bot_token = "5536876453:AAGf06145Ef5ADjqQ-0sO7FD1V3VWOscPYU"
+admin = 'XenoTks'
+bot_token = "5074502788:AAFqaW9vPzhxOHGiEaKoUqlGdvuLTZ4kbQ4"
 
-groupid= -1001567783299
+groupid= -1001529545061
